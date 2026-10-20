@@ -1,0 +1,6 @@
+{
+  "name": "StageTempo - Live BPM & Reverb FX Calculator",
+  "description": "แอปนับจังหวะ BPM สำหรับเวทีแสดงสด พร้อมคำนวณค่า Pre-Delay, Delay (1/2) และ Decay สำหรับ Reverb เสียงร้องเป็นหน่วยมิลลิวินาที (ms) อย่างแม่นยำ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
